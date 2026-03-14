@@ -1,0 +1,123 @@
+ body {
+      background-color: #f2fdf5;
+    }
+    .hero-section {
+      background-color: #e5f2e9;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    .hero-buttons .btn {
+      margin: 10px;
+    }
+    .feature-box {
+      background-color: white;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      height: 100%;
+    }
+    footer {
+      background-color: #215c3b;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    
+/* Heal Card */
+
+.process-box {
+    background-color: #e5f2e9;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 10px 12px 20px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.process-step img {
+    width: 100px;
+    height: 100px;
+} 
+
+/* predict page */
+.sidebar {
+      width: 220px;
+      background-color: #105c36;
+      min-height: 100vh;
+      color: white;
+      padding: 20px 10px;
+    }
+
+    .sidebar h4 {
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+
+    .sidebar a {
+      display: block;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a:hover,
+    .sidebar .active {
+      background-color: #1b7b4d;
+    }
+
+    .main-content {
+      flex-grow: 1;
+      padding: 30px;
+    }
+
+    .image-box {
+      border-radius: 10px;
+      overflow: hidden;
+      max-width: 400px;
+    }
+
+    .card-style {
+      background-color: white;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0px 3px 10px rgba(0,0,0,0.1);
+    }
+
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+
+    .top-bar h2 {
+      margin: 0;
+    }
+
+    .top-bar button {
+      background-color: #1b7b4d;
+      border: none;
+      color: white;
+      padding: 8px 15px;
+      border-radius: 8px;
+    }
+
+    .label {
+      font-weight: bold;
+      color: #333;
+      font-size: 14px;
+    }
+
+    .value {
+      font-size: 18px;
+      font-weight: 500;
+      color: #000;
+    }
+
+
+    /* weather  */
+    
